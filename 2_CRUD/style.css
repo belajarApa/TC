@@ -1,0 +1,16 @@
+.col-10 {
+    margin: auto;
+    padding-top: 5rem;
+}
+
+.number {
+    width: 10%;
+}
+
+thead {
+    text-align: center;
+}
+
+.num {
+    text-align: center;
+}
